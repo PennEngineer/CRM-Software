@@ -1,10 +1,9 @@
 <%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c" %>
-
 <!DOCTYPE html>
 <html>
 <head>
-<meta charset="ISO-8859-1">
 <title>List Customers</title>
+<link type="text/css" rel="stylesheet" href="<c:url value='/resources/css/style.css'/>"/>
 </head>
 <body>
 
