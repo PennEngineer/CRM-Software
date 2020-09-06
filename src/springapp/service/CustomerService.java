@@ -1,9 +1,9 @@
-package springapp.dao;
+package springapp.service;
 
 import java.util.List;
 import springapp.entity.Customer;
 
-public interface CustomerDAO {
+public interface CustomerService {
 	
 	public List<Customer> getCustomers();
 
